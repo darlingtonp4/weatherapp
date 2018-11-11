@@ -1,0 +1,24 @@
+.weather-app {
+  background-image: url("tarde.jpg");
+  background-color: #cccccc;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  position: absolute;
+  left: 35%;
+  margin-top: 10px;
+  border-radius: 4px;
+  min-height: 700px;
+  height: max-content;
+  width: 30%;
+}
+.temperature {
+  margin-bottom: 0px;
+  font-size: 150px;
+  color: white;
+}
+.description {
+  padding: 0px;
+  font-size: 30px;
+  color: white;
+}
